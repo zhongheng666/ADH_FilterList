@@ -33,21 +33,20 @@
 #微信相关
 ||wxs.qq.com^
 ||servicewechat.com^
-#||szminorshort.weixin.qq.com^
-#||support.weixin.qq.com^
-#||szquic.weixin.qq.com^
+||weixin.qq.com^
+||thirdwx.qlogo.cn^
 ||res.wx.qq.com^
 ||prewxacode.wxqcloud.qq.com.cn^
 ||dldir1.qq.com^
+#||szminorshort.weixin.qq.com^
+#||support.weixin.qq.com^
+#||szquic.weixin.qq.com^
 #||mmbiz.qpic.cn^
 #||szshort.weixin.qq.com^
 #||szextshort.weixin.qq.com^
 #||szshort.pay.weixin.qq.com^
-||weixin.qq.com^
-||thirdwx.qlogo.cn^
 #||res.servicewechat.com^
 #||wxsnsdy.wxs.qq.com^
-||wxs.qq.com^
 
 #美团
 ||game.meituan.com^
