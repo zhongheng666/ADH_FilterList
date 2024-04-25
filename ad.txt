@@ -21,21 +21,23 @@
 ||parseapi.back4app.com^
 
 #PP Park
-||ad-api.4pyun.com^
+@@||user-api.4pyun.com^
+||4pyun.com^
+#||ad-api.4pyun.com^
 ||wxsnsdy.wxs.qq.com^
-||wxs.qq.com^
-||ad-files.4pyun.com^
+#||ad-files.4pyun.com^
 ||4pyun-plus-1302591417.cos.accelerate.myqcloud.com
-||files.4pyun.com^
+#||files.4pyun.com^
 ||cos.accelerate.myqcloud.com^
 ||res.servicewechat.com^
-||servicewechat.com^
 
 #微信相关
+||wxs.qq.com^
+||servicewechat.com^
 #||szminorshort.weixin.qq.com^
 #||support.weixin.qq.com^
 #||szquic.weixin.qq.com^
-#||res.wx.qq.com^
+||res.wx.qq.com^
 ||prewxacode.wxqcloud.qq.com.cn^
 ||dldir1.qq.com^
 #||mmbiz.qpic.cn^
