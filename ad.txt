@@ -23,13 +23,12 @@
 #PP Park
 @@||user-api.4pyun.com^
 ||4pyun.com^
-#||ad-api.4pyun.com^
-||wxsnsdy.wxs.qq.com^
-#||ad-files.4pyun.com^
 ||4pyun-plus-1302591417.cos.accelerate.myqcloud.com
-#||files.4pyun.com^
 ||cos.accelerate.myqcloud.com^
-||res.servicewechat.com^
+#||ad-api.4pyun.com^
+#||ad-files.4pyun.com^
+#||files.4pyun.com^
+#||assets.4pyun.com^
 
 #微信相关
 ||wxs.qq.com^
@@ -46,20 +45,12 @@
 #||szshort.pay.weixin.qq.com^
 ||weixin.qq.com^
 ||thirdwx.qlogo.cn^
-||wxsnsdy.wxs.qq.com^
+#||res.servicewechat.com^
+#||wxsnsdy.wxs.qq.com^
 ||wxs.qq.com^
 
 #美团
 ||game.meituan.com^
-
-#PP Park
-||parseapi.back4app.com^
-||ad-api.4pyun.com^
-||ad-files.4pyun.com^
-||4pyun-plus-1302591417.cos.accelerate.myqcloud.com
-||files.4pyun.com^
-||assets.4pyun.com^
-||cos.accelerate.myqcloud.com^
 
 #乱七八糟
 ||jdfcloud.com^
