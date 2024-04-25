@@ -51,8 +51,14 @@
 
 #美团
 ||game.meituan.com^
+||dcloud.net.cn^
+||maplocatesdksnapshot.d.meituan.net^
+||metrics-picture.d.meituan.net^
 
 #乱七八糟
+@@||api.segapi.com^
+||jpushsc.m.jd.com^
+||segapi.com^
 ||jdfcloud.com^
 ||openspeech.cn^
 ||fengmizhibo.com^
