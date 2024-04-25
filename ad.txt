@@ -12,18 +12,18 @@
 
 ||jdfcloud.com^
 ||draw.jdfcloud.com^
-||pconline.com.cn^$important
-||qpic.cn^$important
-||atianqi.com^$important
-||cdn-go.cn^$important
-||tianqin.qq.com^$important
-||jikedata.com^$important
-||openspeech.cn^$important
-||mipt.cn^$important
-||openspeech.cn^$important
-||fengmizhibo.com^$important
-||vmat.gtimg.com^$important
-||device.skyworthbox.aisee.tv^$important
+||pconline.com.cn^
+#||qpic.cn^
+||atianqi.com^
+||cdn-go.cn^
+||tianqin.qq.com^
+||jikedata.com^
+||openspeech.cn^
+||mipt.cn^
+||openspeech.cn^
+||fengmizhibo.com^
+||vmat.gtimg.com^
+||device.skyworthbox.aisee.tv^
 
 #tivimate
 ||tivimate.b4a.io^
@@ -107,7 +107,7 @@
 ||res.wx.qq.com^
 ||prewxacode.wxqcloud.qq.com.cn^
 ||dldir1.qq.com^
-||mmbiz.qpic.cn^
+#||mmbiz.qpic.cn^
 ||szshort.weixin.qq.com^
 ||szextshort.weixin.qq.com^
 ||szshort.pay.weixin.qq.com^
