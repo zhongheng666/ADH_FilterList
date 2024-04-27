@@ -31,14 +31,14 @@
 #||assets.4pyun.com^
 
 #微信相关
-#||res.servicewechat.com^
 ||wxs.qq.com^
+||dldir1.qq.com^
+#||res.servicewechat.com^
 #||servicewechat.com^
 #||weixin.qq.com^
 #||thirdwx.qlogo.cn^
 #||res.wx.qq.com^
 #||prewxacode.wxqcloud.qq.com.cn^
-||dldir1.qq.com^
 #||szminorshort.weixin.qq.com^
 #||support.weixin.qq.com^
 #||szquic.weixin.qq.com^
