@@ -167,7 +167,7 @@
 ||lizhi.fm^
 ||xiami.com^
 @@||migu.cn^
-||huawei.com^
+#||huawei.com^
 ||kg.qq.com^
 ||xwx.cn^
 ||1ting.com^
