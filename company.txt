@@ -16,9 +16,8 @@
 @@||imgstat.baidu.com^
 #PP Park
 @@||user-api.4pyun.com^
-#PP Park
 ||4pyun.com^
-||4pyun-plus-1302591417.cos.accelerate.myqcloud.com^
+||4pyun-plus-1302591417.cos.accelerate.myqcloud.com
 ||cos.accelerate.myqcloud.com^
 #||ad-api.4pyun.com^
 #||ad-files.4pyun.com^
