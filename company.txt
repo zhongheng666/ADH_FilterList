@@ -14,6 +14,21 @@
 @@||pingjs.qq.com^
 @@||h.trace.qq.com^
 @@||imgstat.baidu.com^
+#PP Park
+@@||user-api.4pyun.com^
+#PP Park
+||4pyun.com^
+||4pyun-plus-1302591417.cos.accelerate.myqcloud.com^
+||cos.accelerate.myqcloud.com^
+#||ad-api.4pyun.com^
+#||ad-files.4pyun.com^
+#||files.4pyun.com^
+#||assets.4pyun.com^
+#美团
+||game.meituan.com^
+||dcloud.net.cn^
+||maplocatesdksnapshot.d.meituan.net^
+||metrics-picture.d.meituan.net^
 #网盘
 ||pan.baidu.com^
 ||pcs.baidu.com^
