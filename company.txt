@@ -1,3 +1,7 @@
+@@||fortinet.com.cn^
+@@||amazonaws.com.cn^
+@@||aliyuncs.com^
+@@||se.360.cn^
 @@||e.qq.com^
 @@||developer.huawei.com^
 @@||cloud.huawei.com^
