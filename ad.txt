@@ -10,9 +10,6 @@
 #放行企业微信登录
 @@||i.work.weixin.qq.com^
 
-#放行疼逊图片相关，有视频网站等会用到这个域名
-#||qpic.cn^
-
 #垃圾百毒CDN
 #||bdstatic.com^
 
@@ -66,6 +63,9 @@
 #||szshort.pay.weixin.qq.com^
 #||res.servicewechat.com^
 #||wxsnsdy.wxs.qq.com^
+
+#放行疼逊图片相关，有视频网站等会用到这个域名
+#||qpic.cn^
 
 #美团
 ||game.meituan.com^
