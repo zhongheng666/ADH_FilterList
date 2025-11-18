@@ -25,18 +25,23 @@
 ||4pyun.com^
 ||4pyun-plus-1302591417.cos.accelerate.myqcloud.com
 ||cos.accelerate.myqcloud.com^
-#||ad-api.4pyun.com^
-#||ad-files.4pyun.com^
+#广告弹框拉取
+||ad-api.4pyun.com^
+||ad-files.4pyun.com^
 #||files.4pyun.com^
 #||assets.4pyun.com^
 
 #微信相关
+||wximg.wxs.qq.com^
 ||wxs.qq.com^
+#SVP_Video
+||wximg.wxs.qq.com^
 ||dldir1.qq.com^
 #||res.servicewechat.com^
 #||servicewechat.com^
 #||weixin.qq.com^
-#||thirdwx.qlogo.cn^
+#广告图片从这个域名出来，但不确定是否有其他非广告图片会受到影响
+||thirdwx.qlogo.cn^
 #||res.wx.qq.com^
 #||prewxacode.wxqcloud.qq.com.cn^
 #||szminorshort.weixin.qq.com^
